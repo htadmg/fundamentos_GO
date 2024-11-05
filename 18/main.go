@@ -8,4 +8,5 @@ import (
 func main() {
 	s := matematica.Soma(10, 20)
 	fmt.Println("Resultado:", s)
+	fmt.Println("matematica.A:", matematica.A)
 }
