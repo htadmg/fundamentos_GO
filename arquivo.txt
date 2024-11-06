@@ -1,0 +1,1 @@
+percorrendo arquivos no go 
